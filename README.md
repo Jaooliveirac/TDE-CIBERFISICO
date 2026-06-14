@@ -26,3 +26,14 @@ parte1-filosofos/jantar_filosofos_ingenua.py
 parte1-filosofos/jantar_filosofos_corrigido.py
 
 O relatorio curto da Parte 1 esta em parte1-filosofos/README.md.
+
+Parte 2
+
+A Parte 2, sobre Threads e Semaforos, esta em parte2-semaforo/.
+
+O codigo esta em:
+
+parte2-semaforo/contador_sem_sincronizacao.py
+parte2-semaforo/contador_com_semaforo.py
+
+O relatorio curto da Parte 2 esta em parte2-semaforo/README.md.
