@@ -37,3 +37,14 @@ parte2-semaforo/contador_sem_sincronizacao.py
 parte2-semaforo/contador_com_semaforo.py
 
 O relatorio curto da Parte 2 esta em parte2-semaforo/README.md.
+
+Parte 3
+
+A parte 3, sobre deadlock e condiçoes de coffman, está em parte3-deadlock/.
+
+o codigo esta em:
+
+parte3-deadlock/deadlock.py
+parte3-deadlock/deadlock_corrigido.py
+
+O relátorio curto da parte 3 esta em parte3-deadlock/README.md
