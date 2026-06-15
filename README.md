@@ -16,6 +16,9 @@ parte2-semaforo/
 parte3-deadlock/
 README.md
 
+Link video:
+https://www.youtube.com/watch?v=hxFafCaQIkc
+
 Parte 1
 
 A Parte 1, sobre Jantar dos Filosofos, esta em parte1-filosofos/.
